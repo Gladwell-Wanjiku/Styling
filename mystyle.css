@@ -1,0 +1,13 @@
+#container{
+
+    border: solid blue;
+    border-style: dotted;
+    padding: 20px;
+    margin: 5%;
+}
+#fill{
+    border: solid 1px;
+    padding: 20px;
+    margin: 5%;
+    font-style: italic; color: black;
+}
